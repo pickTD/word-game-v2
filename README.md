@@ -11,6 +11,5 @@ yarn run serve
 ```
 
 ## Live preview
-```
-[https://radiant-brook-68083.herokuapp.com/](https://radiant-brook-68083.herokuapp.com/)
-```
+
+[https://radiant-brook-68083.herokuapp.com](https://radiant-brook-68083.herokuapp.com)
