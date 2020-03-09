@@ -10,20 +10,7 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
+## Live preview
 ```
-yarn run build
+[https://radiant-brook-68083.herokuapp.com/](https://radiant-brook-68083.herokuapp.com/)
 ```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
