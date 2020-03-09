@@ -12,4 +12,4 @@ yarn run serve
 
 ## Live preview
 
-[https://radiant-brook-68083.herokuapp.com](https://radiant-brook-68083.herokuapp.com)
+[https://shielded-temple-05592.herokuapp.com](https://shielded-temple-05592.herokuapp.com)
